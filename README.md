@@ -21,11 +21,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
 
 
-## Activity
 <!--START_SECTION:activity-->
 
 
 
 
-
-<!--END_SECTION:activity-->
