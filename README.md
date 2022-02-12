@@ -22,7 +22,3 @@
 
 
 <!--START_SECTION:activity-->
-
-
-
-
