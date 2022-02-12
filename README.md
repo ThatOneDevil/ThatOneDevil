@@ -3,7 +3,7 @@
 
 ## I'm a java devloper.
 
-- 🔭 I'm 
+- 🔭 I'm just expanding my brain knowledge on java.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to help others!
 - 🥅 2022 Goals: Learn way more java.
