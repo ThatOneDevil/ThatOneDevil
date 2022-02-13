@@ -1,7 +1,7 @@
 
 ### 👋 Hi there im Devil - aka (ThatOneDevil)
 
-## I'm a java devloper.
+## I'm a java developer.
 
 - 🔭 I'm just expanding my brain knowledge on java.
 - 🌱 I’m currently learning everything 🤣
@@ -15,7 +15,7 @@
 ![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
 
 
-## Top langugages
+## Top languages
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
