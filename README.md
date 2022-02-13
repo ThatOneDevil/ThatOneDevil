@@ -1,5 +1,5 @@
 
-### 👋 Hi there im devil - aka (ThatOneDevil)
+### 👋 Hi there im Devil - aka (ThatOneDevil)
 
 ## I'm a java devloper.
 
@@ -19,6 +19,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
-
-
-<!--START_SECTION:activity-->
