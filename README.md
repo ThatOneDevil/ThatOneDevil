@@ -20,10 +20,10 @@
 
 <details>
   <summary>⚡Github Status</summary>
-![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
+[ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
 </details>
 
 <details>
 <summary>⚡Top languages </summary>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
 </details>
