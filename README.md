@@ -17,11 +17,11 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
-##⚡Github Status
+## Github Status
 
 ![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
 
 
-##⚡Top languages
+## Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
