@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to help others!
 - 🥅 2022 Goals: Learn way more java.
-- ⚡ Check out my collab projects (Where I put most of my time into)[https://github.com/Zestarr-and-devil]
+- ⚡ Check out my collab projects (Where I put most of my time into)[project]
 
 ## Github Status
 
@@ -27,3 +27,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.discordapp.com/emojis/611633714656575516.webp?size=128&quality=lossless" style="padding-right:10px;"/>
 
+[project]: https://github.com/Zestarr-and-devil
