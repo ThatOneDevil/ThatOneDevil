@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to help others!
 - 🥅 2022 Goals: Learn way more java.
-- ⚡ [![project]Check out my collab projects (Where I put most of my time into)
+- ⚡ [![project]Check out my collab projects (Where I put most of my time into)]
 
 ## Github Status
 
