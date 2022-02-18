@@ -1,5 +1,5 @@
 
-### 👋 Hi there im Devil - aka (ThatOneDevil)
+### <img src="https://github.com/ThatOneDevil/ThatOneDevil/blob/main/images/ReadMeWaveGif.gif" width="40px" /> Hi there im Devil - aka (ThatOneDevil)
 
 ## I'm a java developer.
 
