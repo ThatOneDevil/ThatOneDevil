@@ -11,12 +11,12 @@
 
 ## Github Status
 
-![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
-
+![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thatonedevil&theme=tokyonight" alt="mystreak"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=thatonedevil&theme=tokyonight" alt="mystreak"/>
 
 ## Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=tokyonight)
 
 ### Languages and Tools
 
