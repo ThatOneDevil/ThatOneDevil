@@ -1,7 +1,9 @@
 
 ### <img src="https://github.com/ThatOneDevil/ThatOneDevil/blob/main/images/ReadMeWaveGif.gif" width="40px" /> Hi there im Devil - aka (ThatOneDevil)
 
-## I'm a java developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil" /> </p>
+
+## I'm a java developer specialising in the Spigot Framework.
 
 - 🔭 I'm just expanding my brain knowledge on java.
 - 🌱 I’m currently learning everything 🤣
