@@ -1,5 +1,5 @@
 
-### <h1 align="center"><img src="https://github.com/ThatOneDevil/ThatOneDevil/blob/main/images/ReadMeWaveGif.gif" width="40px"/></h1> Hi there im Devil - aka (ThatOneDevil)
+### <h1 align="center"><img src="https://github.com/ThatOneDevil/ThatOneDevil/blob/main/images/ReadMeWaveGif.gif" width="40px"/h1> Hi there im Devil - aka (ThatOneDevil)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil" /> </p>
 
