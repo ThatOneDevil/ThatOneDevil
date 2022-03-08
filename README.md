@@ -4,9 +4,10 @@
 
 ## I'm a java developer specialising in the Spigot Framework.
 
-- 🔭 I'm just expanding my brain knowledge on java.
+- 🔭 I'm just learning more advance java.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to help others!
+- 😶‍🌫️ I also use this profile for other languages.
 - 🥅 2022 Goals: Learn way more java.
 - ⚡ Check out my collab projects @ https://github.com/Zestarr-and-devil
 
