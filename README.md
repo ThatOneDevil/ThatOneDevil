@@ -9,7 +9,7 @@
 - 👯 I’m looking to help others!
 - 😶‍🌫️ I also use this profile for other languages.
 - 🥅 2022 Goals: Learn way more java.
-- ⚡ Check out my collab projects @ https://github.com/Zestarr-and-devil
+- ⚡ Fun fact: I love to play games!
 
 ## Github Status
 
