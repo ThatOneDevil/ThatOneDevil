@@ -2,7 +2,7 @@
 ### Hi there im Devil - aka (ThatOneDevil)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil"/></p>
 
-## I'm a java developer specialising in the Spigot Framework.
+## I'm a developer specialising in the Spigot Framework.
 
 - 🔭 I'm just learning more advance java.
 - 🌱 I’m currently learning everything 🤣
