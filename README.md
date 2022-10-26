@@ -1,29 +1,23 @@
+<h1 align="center">Hi 👋, I'm ThatOneDevil</h1>
+<h3 align="center">A random github user who likes to put stuff on github!</h3>
 
-### Hi there im Devil - aka (ThatOneDevil)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatonedevil&label=Profile%20views&color=0e75b6&style=flat" alt="thatonedevil" /> </p>
 
-## I'm a developer specialising in nothing....
+- 🌱 I’m currently learning **Java, Python (At school)**
 
-- 🔭 I'm just learning more advance java.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to help others!
-- 😶‍🌫️ I also use this profile for other languages.
-- 🥅 2022 Goals: Learn way more java.
-- ⚡ Fun fact: I love to play games!
+- 👨‍💻 All of my projects are available at [https://github.com/ThatOneDevil](https://github.com/ThatOneDevil)
 
-## Github Status
+- 📫 How to reach me **Discord ThatOneDevil#1560**
 
-![ThatOneDevil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thatonedevil&&hide_border=true&theme=tokyonight" alt="mystreak"/>
+- ⚡ Fun fact **I play games and develop for Minecraft plugins**
 
-## Top languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&hide_border=true&theme=tokyonight)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Languages and Tools
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&locale=en" alt="thatonedevil" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Intelij" width="26px" src="https://camo.githubusercontent.com/40aaee838f86883b0682ef98fc0e7f803a6d2e7d860043373730ebd79497595d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3631313633333731343635363537353531362e776562703f73697a653d313238267175616c6974793d6c6f73736c657373" style="padding-right:10px;"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonedevil&" alt="thatonedevil" /></p>
