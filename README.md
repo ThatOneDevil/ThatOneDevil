@@ -13,7 +13,7 @@
 
 ## Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThatOneDevil-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThatOneDevil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Github Status
