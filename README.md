@@ -4,12 +4,17 @@
 
 ## I'm a developer specialising in nothing....
 
-- 🔭 I'm just learning more advance java.
+- 🔭 I'm just learning more java.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to help others!
 - 😶‍🌫️ I also use this profile for other languages.
-- 🥅 2022 Goals: Learn way more java.
+- 🥅 2023 Goals: No idea...
 - ⚡ Fun fact: I love to play games!
+
+## Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThatOneDevil-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Github Status
 
