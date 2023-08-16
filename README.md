@@ -2,14 +2,7 @@
 ### Hi there im Devil - aka (ThatOneDevil)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil"/></p>
 
-## I'm a developer specialising in nothing....
-
-- 🔭 I'm just learning more java.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to help others!
-- 😶‍🌫️ I also use this profile for other languages.
-- 🥅 2023 Goals: No idea...
-- ⚡ Fun fact: I love to play games!
+[![Discord Presence](https://lanyard.cnrad.dev/api/422434919311212544)](https://discord.com/users/422434919311212544)
 
 ## Achievements
 
