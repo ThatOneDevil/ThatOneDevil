@@ -28,7 +28,7 @@
 
 ### Languages
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="kotlin" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/kotlin-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="kotlin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;"/>
 
 
