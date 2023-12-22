@@ -2,8 +2,6 @@
 ### Hi there im Devil - aka (ThatOneDevil)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil"/></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/422434919311212544)](https://discord.com/users/422434919311212544)
-
 ## Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThatOneDevil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
