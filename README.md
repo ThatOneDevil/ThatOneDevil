@@ -1,11 +1,9 @@
 
 ### Hi there im Devil - aka (ThatOneDevil)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatOneDevil" alt="ThatOneDevil"/></p>
-
 ## Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThatOneDevil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## Github Status
 
