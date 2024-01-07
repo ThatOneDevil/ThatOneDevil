@@ -1,2 +1,2 @@
 
-### Hi there im Neev - aka (ThatOneDevil)</h1>
+### Hi there im ThatOneDevil</h1>
