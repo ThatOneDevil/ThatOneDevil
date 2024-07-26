@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=080414&center=true&width=435&lines=Hi%2C+I'm+ThatOneDevil" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fffff&center=true&width=435&lines=Hi%2C+I'm+ThatOneDevil" alt="Typing SVG" /></a>
     <p>I'm a self taught developer</p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
