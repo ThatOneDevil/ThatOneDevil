@@ -16,5 +16,12 @@
 ---
 <div align="center">
   <p><a href="https://wakatime.com/@f99ace78-df27-4ebb-89eb-64d282cd3706"><img src="https://wakatime.com/badge/user/f99ace78-df27-4ebb-89eb-64d282cd3706.svg" alt="wakatime"></a>
-  <img src="https://komarev.com/ghpvc/?username=thatonedevil&amp;abbreviated=true" alt=""></p>
+  <p><img src="https://komarev.com/ghpvc/?username=thatonedevil&amp;abbreviated=true" alt="">
+</div>
+
+---
+</div>
+<div align="center">
+    <p><a href="https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"></a>
+    <p><a href="https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical"></a>
 </div>
