@@ -20,6 +20,6 @@
 ---
 </div>
 <div align="center">
-    <p><a href="https://github-readme-stats-pink-six-78.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"></a>
-    <p><a href="https://github-readme-stats-pink-six-78.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical"></a>
+    <p><a href="https://github-readme-stats-pink-six-78.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats-pink-six-78.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"></a>
+    <p><a href="https://github-readme-stats-pink-six-78.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical"><img src="https://github-readme-stats-pink-six-78.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical"></a>
 </div>
